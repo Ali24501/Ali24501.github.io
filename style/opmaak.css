@@ -24,8 +24,9 @@ p{
   text-indent:inherit;
   font-weight: bold;
 }
-
-
+a{
+  text-decoration: none;s
+}
 
 ul {
     list-style-type: none;
